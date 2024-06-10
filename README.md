@@ -1,7 +1,7 @@
 # Communicating Analysis Results
-# Executive Leadership and Sales
+Executive Leadership and Sales
 
-Company: Adventures works
+Company: Adventures Works
 Analysis for Executives and Sales department management
 
 # Analysis of Adventures Work Company Sales
