@@ -1,12 +1,12 @@
-Communicating Analysis Results
-#Executive Leadership and Sales
+# Communicating Analysis Results
+# Executive Leadership and Sales
 
 Company: Adventures works
 Analysis for Executives and Sales department management
 
-#Analysis of Adventures Work Company Sales
+# Analysis of Adventures Work Company Sales
 
-#Part of ASK
+# Part of ASK
 
 Chosen topic: Company sales
 
@@ -26,7 +26,7 @@ Which reseller was the most effective and which was not?
 Which product category is the most profitable?
 Which product subcategory and products were most lucrative?
 
-#Part of PREPARE
+# Part of PREPARE
 
 Collect relevant data from AdventuresWork DB. Before analyzing data, clean and if necessary  make aggregations.
 
@@ -38,7 +38,7 @@ Data was extracted in CSV format and connected as a source to Tableau
 
 
 
-#Part of SHARE
+# Part of SHARE
 
 Summary of Findings:
 
