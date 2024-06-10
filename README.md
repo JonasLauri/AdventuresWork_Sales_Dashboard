@@ -1,4 +1,4 @@
-#Communicating Analysis Results
+Communicating Analysis Results
 #Executive Leadership and Sales
 
 Company: Adventures works
