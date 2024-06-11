@@ -4,7 +4,8 @@ Executive Leadership and Sales
 Company: Adventures Works
 Analysis for Executives and Sales department management
 
-Link to the public Tableau dashboard: 
+Link to the public Tableau dashboard:
+
 https://public.tableau.com/views/AdventureWorks_SalesDashboard/HomeDashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
 
 # Analysis of Adventures Work Company Sales
