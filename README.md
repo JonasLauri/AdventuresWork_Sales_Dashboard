@@ -56,3 +56,17 @@ The best performer in retail sales was Linda C Mitchell, the lowest sales perfor
 The category of Bikes proved to be the most lucrative category in terms of revenue, it made a sum of approximately $95M in revenue. That said, Mountain Bikes and Road Bikes were top performing subcategories, yielding the highest profits. However, while the Bikes yield the biggest part of the revenue and profit, other categories - Accessories, saw to be the most profit effective and the most orders placed. 
 Best selling product in the company was Mountain-200 Black, 38.
 
+# Screenshots of the dashboard
+
+Home view
+
+![image](https://github.com/JonasLauri/AdventuresWork_Sales_Dashboard/assets/31222361/393cca5c-22b5-4000-bfa1-86758a2f7894)
+
+Performance view
+
+![image](https://github.com/JonasLauri/AdventuresWork_Sales_Dashboard/assets/31222361/e8dae4f6-7e63-4ea1-a93f-f62c7226e26c)
+
+Production view
+
+![image](https://github.com/JonasLauri/AdventuresWork_Sales_Dashboard/assets/31222361/8928c678-901b-4340-a038-b395567a15b8)
+
